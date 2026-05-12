@@ -4,7 +4,7 @@ Vertigo Mixed S1 - Rulebook
 
 .. note::
 
-   Season **1** - Rulebook **1.0** - last updated **2026-05-12**.
+   Season **1** - Rulebook **1.1** - last updated **2026-05-12**.
 
 .. tip::
 
@@ -72,7 +72,7 @@ Schedule
    * - League Playday 2
      - 21st June
      - :t:`2026-06-21 17:30` - :t:`2026-06-21 22:00`
-     - B + C + D
+     - C + D + E
    * - Playoffs
      - 28th June
      - :t:`2026-06-28 16:00` - :t:`2026-06-28 22:00`
