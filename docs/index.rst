@@ -4,7 +4,7 @@ Vertigo Mixed S1 - Rulebook
 
 .. note::
 
-   Season **1** - Rulebook **1.1** - last updated **2026-05-12**.
+   Season **1** - Rulebook **1.2** - last updated **2026-05-12**.
 
 .. tip::
 
@@ -184,12 +184,16 @@ This format applies to both the **League Stage** and the **Playoffs**. Every mat
 
    **Player overlap.** The **1v1 player cannot also play in the 2v2**.
 
+.. note::
+
+   **Submatch Draws.** If teams hit the round limit but are equal on points, then the match points are split between them - 0.5 each for the 2v2, 1 each for the 4v4.
+
 Submatch order may be **permuted by mutual consensus** from the two team captains.
 
 Match-point tiebreaker
 ----------------------
 
-If teams tie on match points (each side wins one 4v4 and one of the 1v1 / 2v2 submatches), the tie is broken in order:
+If teams tie on match points (for example if each side wins one 4v4 and one of the 1v1 / 2v2 submatches), the tie is broken in order:
 
 1. The team who has **won the most rounds**.
 2. A **golden point** played on the **second 4v4 map**.
