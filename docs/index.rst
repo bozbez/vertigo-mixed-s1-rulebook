@@ -4,7 +4,7 @@ Vertigo Mixed S1 - Rulebook
 
 .. note::
 
-   Season **1** - Rulebook **1.3** - last updated **2026-05-14**.
+   Season **1** - Rulebook **1.4** - last updated **2026-05-14**.
 
 .. tip::
 
@@ -79,6 +79,29 @@ Schedule
      - C + D + E
 
 In match weeks the maps follow the order listed above: the first map of the week is used for the 1v1 and 2v2; the remaining two maps are used for the 4v4s.
+
+Map release
+-----------
+
+.. list-table::
+   :header-rows: 1
+
+   * - Maps
+     - When
+     - Date
+     - Time
+   * - A + B
+     - —
+     - 24th May
+     - :t:`2026-05-24 12:00`
+   * - C
+     - After Main Seeding Rounds
+     - 7th June
+     - :t:`2026-06-07 18:30`
+   * - D + E
+     - After League Playday 1 Matches
+     - 14th June
+     - :t:`2026-06-14 22:00`
 
 Seeding
 =======
