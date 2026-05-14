@@ -4,7 +4,7 @@ Vertigo Mixed S1 - Rulebook
 
 .. note::
 
-   Season **1** - Rulebook **1.2** - last updated **2026-05-12**.
+   Season **1** - Rulebook **1.3** - last updated **2026-05-14**.
 
 .. tip::
 
@@ -122,6 +122,8 @@ A team's final seeding score is the **average of the 6 contributing individual r
 
 Seeding sessions
 ----------------
+
+Two seeding **rounds** sessions will be run to allow players who can't attend the main session to still play. Each player should play only one session per map - if you play the early-bird Map A session then you can't play the main Map A session.
 
 .. list-table::
    :header-rows: 1
