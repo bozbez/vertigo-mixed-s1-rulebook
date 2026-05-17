@@ -29,6 +29,7 @@
 
 [data-theme="dark"] {
   color-scheme: dark;
+  --c-sky:        #38bdf8;  /* lighter than the default for better dark-mode contrast */
   --bg:           #0c0c10;
   --fg:           #ececf0;
   --fg-muted:     #8d8d97;
@@ -188,7 +189,7 @@ a:hover { text-decoration: underline; }
   box-shadow: var(--shadow);
 }
 
-.panel-amber   { --accent: var(--c-amber);   --accent-fg: #1c1c20; }
+.panel-amber   { --accent: var(--c-amber);   --accent-fg: #ffffff; }
 .panel-sky     { --accent: var(--c-sky);     --accent-fg: #ffffff; }
 .panel-emerald { --accent: var(--c-emerald); --accent-fg: #ffffff; }
 .panel-violet  { --accent: var(--c-violet);  --accent-fg: #ffffff; }
