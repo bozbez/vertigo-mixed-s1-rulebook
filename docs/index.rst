@@ -4,7 +4,7 @@ Vertigo Mixed S1 - Rulebook
 
 .. note::
 
-   Season **1** - Rulebook **1.4** - last updated **2026-05-14**.
+   Season **1** - Rulebook **1.5** - last updated **2026-05-17**.
 
 .. tip::
 
@@ -164,6 +164,8 @@ Two seeding **rounds** sessions will be run to allow players who can't attend th
      - 7th June
      - :t:`2026-06-07 17:30`
      - :t:`2026-06-07 18:00`
+
+Players that are playing both maps are allowed to play one map in the early-bird session and one map in the main session.
 
 Match Format
 ============
