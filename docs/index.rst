@@ -4,7 +4,7 @@ Vertigo Mixed S1 - Rulebook
 
 .. note::
 
-   Season **1** - Rulebook **1.5** - last updated **2026-05-17**.
+   Season **1** - Rulebook **1.6** - last updated **2026-05-20**.
 
 .. tip::
 
@@ -117,11 +117,11 @@ Each map is played in **Time Attack (TA)** and in **rounds** (10 rounds). Player
    * - Component
      - Weight
    * - Time Attack
-     - 30%
+     - 25%
    * - Fastest round
-     - 20%
+     - 15%
    * - 2nd fastest round
-     - 20%
+     - 15%
    * - 3rd fastest round
      - 10%
    * - 4th fastest round
@@ -129,7 +129,7 @@ Each map is played in **Time Attack (TA)** and in **rounds** (10 rounds). Player
    * - 5th fastest round
      - 10%
    * - 6th fastest round
-     - 5%
+     - 10%
    * - 7th fastest round
      - 5%
    * - 8th–10th fastest rounds
