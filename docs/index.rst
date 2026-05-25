@@ -68,15 +68,15 @@ Schedule
    * - League Playday 1
      - 14th June
      - :t:`2026-06-14 17:30` - :t:`2026-06-14 22:00`
-     - A + B + C
+     - C + A + B
    * - League Playday 2
      - 21st June
      - :t:`2026-06-21 17:30` - :t:`2026-06-21 22:00`
-     - C + D + E
+     - D + C + E
    * - Playoffs
      - 28th June
      - :t:`2026-06-28 16:00` - :t:`2026-06-28 22:00`
-     - C + D + E
+     - E + C + D
 
 In match weeks the maps follow the order listed above: the first map of the week is used for the 1v1 and 2v2; the remaining two maps are used for the 4v4s.
 
