@@ -4,7 +4,7 @@ Vertigo Mixed S1 - Rulebook
 
 .. note::
 
-   Season **1** - Rulebook **1.6** - last updated **2026-05-20**.
+   Season **1** - Rulebook **1.7** - last updated **2026-05-25**.
 
 .. tip::
 
